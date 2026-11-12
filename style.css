@@ -103,3 +103,16 @@ p{
 .ferramentas img{
     margin-top: 72px;
 }
+.parceiros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 145px;
+}
+.parceiros img{
+    margin-top: 56px;
+}
+.rodape img{
+    margin-top: 223px;
+
+}
