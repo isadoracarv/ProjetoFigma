@@ -42,7 +42,7 @@ p{
 
 .btn-group{
     display: flex;
-    align-items: center;
+        align-items: center;
     flex-direction: column;
     transition: all 0.3s ease;
 }
@@ -94,6 +94,7 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 footer *{
     padding: 8px;
